@@ -25,11 +25,22 @@
 * Using Python to Access Web Data - <a href= "https://coursera.org/share/d9812a73e017bbc832f43925f2a7b91d">link</a>
 
 
-<b>Python for data science by University Of Tehran </b> - <a href= "https://github.com/arminazimi/my-certificates/blob/master/Python%20for%20data%20science.pdf">link</a>
+### Web Design for Everybody: Basics of Web Development & Coding Specialization
+* Introduction to HTML5 - <a href= "https://coursera.org/share/b319b3855e8d4d11f72a6e6eab146013">link</a>
+
+
+
+
+### Machine Learning by  Stanford University - <a href= "https://coursera.org/share/cc1582596358716712c2662ebd1d0c26">link</a>
+
+### Python for data science by University Of Tehran - <a href= "https://github.com/arminazimi/my-certificates/blob/master/Python%20for%20data%20science.pdf">link</a>
 
 ### Internet History, Technology, and Security by University of Michigan - <a href= "https://coursera.org/share/756b86146fbdfd93f43bd16f243acf6b">link</a>
+
 ### AI For Everyone - <a href= "https://coursera.org/share/bfe9a480ad4ae247d862c5b2917ed249">link</a>
+
 ### Understanding Research Methods by University of London - <a href= "https://coursera.org/share/020c37a04252cbceeb0b857a0d1023f6">link</a>
+
 ### A Crash Course in Data Science by Johns Hopkins University - <a href= "https://coursera.org/share/6acc95dc976b742167b537db258f4615">link</a>
 
 <a href= "">link</a>
