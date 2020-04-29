@@ -25,4 +25,8 @@
 * Using Python to Access Web Data - <a href= "https://coursera.org/share/d9812a73e017bbc832f43925f2a7b91d">link</a>
 
 ### Internet History, Technology, and Security by University of Michigan - <a href= "https://coursera.org/share/756b86146fbdfd93f43bd16f243acf6b">link</a>
+### AI For Everyone - <a href= "https://coursera.org/share/bfe9a480ad4ae247d862c5b2917ed249">link</a>
+### Understanding Research Methods by University of London - <a href= "https://coursera.org/share/020c37a04252cbceeb0b857a0d1023f6">link</a>
+### A Crash Course in Data Science by Johns Hopkins University - <a href= "https://coursera.org/share/6acc95dc976b742167b537db258f4615">link</a>
+
 <a href= "">link</a>
