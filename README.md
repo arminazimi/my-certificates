@@ -23,6 +23,8 @@
 * Programming for Everybody (Getting Started with Python) - <a href= "https://coursera.org/share/edac0ab2f4faa6b043e47a3c644cbeeb">link</a>
 * Python Data Structures - <a href= "https://coursera.org/share/e418b11d860c0f9fd6e73ca2132270d8">link</a>
 * Using Python to Access Web Data - <a href= "https://coursera.org/share/d9812a73e017bbc832f43925f2a7b91d">link</a>
+
+
 <b>Python for data science by University Of Tehran </b> - <a href= "https://github.com/arminazimi/my-certificates/blob/master/Python%20for%20data%20science.pdf">link</a>
 
 ### Internet History, Technology, and Security by University of Michigan - <a href= "https://coursera.org/share/756b86146fbdfd93f43bd16f243acf6b">link</a>
