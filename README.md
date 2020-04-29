@@ -28,7 +28,7 @@
 ### Web Design for Everybody: Basics of Web Development & Coding Specialization
 * Introduction to HTML5 - <a href= "https://coursera.org/share/b319b3855e8d4d11f72a6e6eab146013">link</a>
 
-
+<br>
 
 ...........................................
 ...........................................
