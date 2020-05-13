@@ -19,16 +19,16 @@
 * Using Git for Distributed Development  - <a href="https://coursera.org/share/21b925ba61fb958d13a08ae06beae83f">link</a>
 
 
-### Python for Everybody Specialization - 
+### Python for Everybody Specialization by University of Michigan - 
 * Programming for Everybody (Getting Started with Python) - <a href= "https://coursera.org/share/edac0ab2f4faa6b043e47a3c644cbeeb">link</a>
 * Python Data Structures - <a href= "https://coursera.org/share/e418b11d860c0f9fd6e73ca2132270d8">link</a>
 * Using Python to Access Web Data - <a href= "https://coursera.org/share/d9812a73e017bbc832f43925f2a7b91d">link</a>
 * Using Databases with Python - <a href= "https://coursera.org/share/1874129c26818646f2175d6991569e85">link</a>
 
 
-### Web Design for Everybody: Basics of Web Development & Coding Specialization
+### Web Design for Everybody: Basics of Web Development & Coding Specialization by University of Michigan - 
 * Introduction to HTML5 - <a href= "https://coursera.org/share/b319b3855e8d4d11f72a6e6eab146013">link</a>
-
+* Introduction to CSS3 - <a href= "https://coursera.org/share/3bdd0fcfbd5ea2f8cc210ab73b011bea">link</a>
 <hr>
 
 
