@@ -34,9 +34,11 @@
 
 #### AI For Everyone - <a href= "https://coursera.org/share/bfe9a480ad4ae247d862c5b2917ed249">link</a> 
 
-#### Machine Learning for All  by University of London- <a href=https://coursera.org/share/cb66c70ff8d67149035d80582e3403ad>link</a>
 
 #### Machine Learning by  Stanford University - <a href= "https://coursera.org/share/cc1582596358716712c2662ebd1d0c26">link</a>
+
+#### Machine Learning for All  by University of London- <a href=https://coursera.org/share/cb66c70ff8d67149035d80582e3403ad>link</a>
+
 
 #### Python for data science by University Of Tehran - <a href= "https://github.com/arminazimi/my-certificates/blob/master/Python%20for%20data%20science.pdf">link</a>
 
