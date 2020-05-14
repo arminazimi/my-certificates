@@ -33,7 +33,7 @@
 
 
 #### AI For Everyone - <a href= "https://coursera.org/share/bfe9a480ad4ae247d862c5b2917ed249">link</a> 
-
+#### Machine Learning for All - <a href=https://coursera.org/share/cb66c70ff8d67149035d80582e3403ad>Back to top</a>
 
 #### Machine Learning by  Stanford University - <a href= "https://coursera.org/share/cc1582596358716712c2662ebd1d0c26">link</a>
 
@@ -47,6 +47,6 @@
 
 #### Internet History, Technology, and Security by University of Michigan - <a href= "https://coursera.org/share/756b86146fbdfd93f43bd16f243acf6b">link</a>
 
-<a name="top"></a>
+
 <!--content here-->
 <a href="#top">Back to top</a>
