@@ -32,7 +32,7 @@
 
 #### [Machine Learning: Algorithms in the Real World Specialization](https://www.coursera.org/specializations/machine-learning-algorithms-real-world)
   * [Introduction to Applied Machine Learning](https://coursera.org/share/2070c6bfa1b5f17540d2b9690c5d24dc)
-#### [Fundamentals of Computing Specialization by Rice University]
+#### [Fundamentals of Computing Specialization by Rice University](https://www.coursera.org/specializations/computer-fundamentals)
   * [An Introduction to Interactive Programming in
 Python (Part 1)](https://coursera.org/share/d20430717a7b300d8106bbcf6ab9ce0d)
 <hr>
