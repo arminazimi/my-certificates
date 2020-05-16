@@ -31,7 +31,7 @@
 * Introduction to CSS3 - <a href= "https://coursera.org/share/3bdd0fcfbd5ea2f8cc210ab73b011bea">link</a>
 
 * [Machine Learning: Algorithms in the Real World Specialization]
- * [Introduction to Applied Machine Learning](https://coursera.org/share/2070c6bfa1b5f17540d2b9690c5d24dc)
+  * [Introduction to Applied Machine Learning](https://coursera.org/share/2070c6bfa1b5f17540d2b9690c5d24dc)
 <hr>
 
 
