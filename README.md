@@ -1,7 +1,7 @@
 <a name="top"></a>
 # my certificates from coursera 
 #### [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JV3MBSQTA9T7?utm_source=link&utm_campaign=copybutton_certificate) 
-* What is Data Science? - <a color='black' href="https://www.coursera.org/account/accomplishments/verify/TWQUWWAJC9C6?utm_source=link&utm_campaign=copybutton_certificate">link</a> 
+ * [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/TWQUWWAJC9C6?utm_source=link&utm_campaign=copybutton_certificate)
 * Open Source tools for Data Science - <a href= "https://www.coursera.org/account/accomplishments/verify/ZZ3WPYAMAK6U?utm_source=link&utm_campaign=copybutton_certificate" > link </a>
 * Data Science Methodology - <a target="_blank" href="https://www.coursera.org/account/accomplishments/verify/KGUJWKZ9FPKY?utm_source=link&utm_campaign=copybutton_certificate">link</a>
 * Python for Data Science and AI - <a href= "https://www.coursera.org/account/accomplishments/verify/APQ9DUJZPXDY?utm_source=link&utm_campaign=copybutton_certificate" > link </a>
