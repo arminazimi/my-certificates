@@ -13,10 +13,10 @@
 
 
 ### [Open Source Software Development, Linux and Git](https://coursera.org/share/37efa2ad69a6e1201b86c9271a558bf1)
-    * [Open Source Software Development Methods](https://coursera.org/share/5538cfe2e176c38567a1d428a37efcbe)
-    * [Linux for Developers](https://coursera.org/share/30e9d543b057514b27ccdbe1af4ceee3)
-    * [Linux Tools for Developers](https://coursera.org/share/30e9d543b057514b27ccdbe1af4ceee3)
-    * [Using Git for Distributed Development](https://coursera.org/share/21b925ba61fb958d13a08ae06beae83f)
+   * [Open Source Software Development Methods](https://coursera.org/share/5538cfe2e176c38567a1d428a37efcbe)
+   * [Linux for Developers](https://coursera.org/share/30e9d543b057514b27ccdbe1af4ceee3)
+   * [Linux Tools for Developers](https://coursera.org/share/30e9d543b057514b27ccdbe1af4ceee3)
+   * [Using Git for Distributed Development](https://coursera.org/share/21b925ba61fb958d13a08ae06beae83f)
 
 
 ### [Python for Everybody Specialization by University of Michigan](https://coursera.org/share/bf2f6deaeca733549c432e91657c9bd7) 
