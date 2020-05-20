@@ -20,16 +20,16 @@
 
 
 #### [Python for Everybody Specialization by University of Michigan](https://coursera.org/share/bf2f6deaeca733549c432e91657c9bd7) 
-  * [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/edac0ab2f4faa6b043e47a3c644cbeeb)
-  * [Python Data Structures](https://coursera.org/share/e418b11d860c0f9fd6e73ca2132270d8)
-  * [Using Python to Access Web Data](https://coursera.org/share/d9812a73e017bbc832f43925f2a7b91d)
-  * [Using Databases with Python](https://coursera.org/share/1874129c26818646f2175d6991569e85)
-  * [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://coursera.org/share/bf2f6deaeca733549c432e91657c9bd7)
+   * [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/edac0ab2f4faa6b043e47a3c644cbeeb)
+   * [Python Data Structures](https://coursera.org/share/e418b11d860c0f9fd6e73ca2132270d8)
+   * [Using Python to Access Web Data](https://coursera.org/share/d9812a73e017bbc832f43925f2a7b91d)
+   * [Using Databases with Python](https://coursera.org/share/1874129c26818646f2175d6991569e85)
+   * [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://coursera.org/share/bf2f6deaeca733549c432e91657c9bd7)
 
 
-### Web Design for Everybody: Basics of Web Development & Coding Specialization by University of Michigan - 
-* Introduction to HTML5 - <a href= "https://coursera.org/share/b319b3855e8d4d11f72a6e6eab146013">link</a>
-* Introduction to CSS3 - <a href= "https://coursera.org/share/3bdd0fcfbd5ea2f8cc210ab73b011bea">link</a>
+#### [Web Design for Everybody: Basics of Web Development & Coding Specialization by University of Michigan] 
+  * [Introduction to HTML5](https://coursera.org/share/b319b3855e8d4d11f72a6e6eab146013)
+  * [Introduction to CSS3](https://coursera.org/share/3bdd0fcfbd5ea2f8cc210ab73b011bea)
 
 #### [Machine Learning: Algorithms in the Real World Specialization](https://www.coursera.org/specializations/machine-learning-algorithms-real-world)
   * [Introduction to Applied Machine Learning](https://coursera.org/share/2070c6bfa1b5f17540d2b9690c5d24dc)
