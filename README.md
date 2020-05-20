@@ -1,6 +1,6 @@
 <a name="top"></a>
 # my certificates from coursera 
-### [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JV3MBSQTA9T7?utm_source=link&utm_campaign=copybutton_certificate) 
+#### [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JV3MBSQTA9T7?utm_source=link&utm_campaign=copybutton_certificate) 
  * [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/TWQUWWAJC9C6?utm_source=link&utm_campaign=copybutton_certificate)
 * Open Source tools for Data Science - <a href= "https://www.coursera.org/account/accomplishments/verify/ZZ3WPYAMAK6U?utm_source=link&utm_campaign=copybutton_certificate" > link </a>
 * Data Science Methodology - <a target="_blank" href="https://www.coursera.org/account/accomplishments/verify/KGUJWKZ9FPKY?utm_source=link&utm_campaign=copybutton_certificate">link</a>
@@ -19,11 +19,12 @@
 * Using Git for Distributed Development  - <a href="https://coursera.org/share/21b925ba61fb958d13a08ae06beae83f">link</a>
 
 
-### Python for Everybody Specialization by University of Michigan - 
-* Programming for Everybody (Getting Started with Python) - <a href= "https://coursera.org/share/edac0ab2f4faa6b043e47a3c644cbeeb">link</a>
-* Python Data Structures - <a href= "https://coursera.org/share/e418b11d860c0f9fd6e73ca2132270d8">link</a>
-* Using Python to Access Web Data - <a href= "https://coursera.org/share/d9812a73e017bbc832f43925f2a7b91d">link</a>
-* Using Databases with Python - <a href= "https://coursera.org/share/1874129c26818646f2175d6991569e85">link</a>
+#### [Python for Everybody Specialization by University of Michigan](https://coursera.org/share/bf2f6deaeca733549c432e91657c9bd7) 
+  * Programming for Everybody (Getting Started with Python) - <a href= "https://coursera.org/share/edac0ab2f4faa6b043e47a3c644cbeeb">link</a>
+  * Python Data Structures - <a href= "https://coursera.org/share/e418b11d860c0f9fd6e73ca2132270d8">link</a>
+  * Using Python to Access Web Data - <a href= "https://coursera.org/share/d9812a73e017bbc832f43925f2a7b91d">link</a>
+  * Using Databases with Python - <a href= "https://coursera.org/share/1874129c26818646f2175d6991569e85">link</a>
+  * [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://coursera.org/share/bf2f6deaeca733549c432e91657c9bd7)
 
 
 ### Web Design for Everybody: Basics of Web Development & Coding Specialization by University of Michigan - 
