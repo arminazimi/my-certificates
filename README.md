@@ -20,10 +20,10 @@
 
 
 #### [Python for Everybody Specialization by University of Michigan](https://coursera.org/share/bf2f6deaeca733549c432e91657c9bd7) 
-  * Programming for Everybody (Getting Started with Python) - <a href= "https://coursera.org/share/edac0ab2f4faa6b043e47a3c644cbeeb">link</a>
-  * Python Data Structures - <a href= "https://coursera.org/share/e418b11d860c0f9fd6e73ca2132270d8">link</a>
-  * Using Python to Access Web Data - <a href= "https://coursera.org/share/d9812a73e017bbc832f43925f2a7b91d">link</a>
-  * Using Databases with Python - <a href= "https://coursera.org/share/1874129c26818646f2175d6991569e85">link</a>
+  * [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/edac0ab2f4faa6b043e47a3c644cbeeb)
+  * [Python Data Structures](https://coursera.org/share/e418b11d860c0f9fd6e73ca2132270d8)
+  * [Using Python to Access Web Data](https://coursera.org/share/d9812a73e017bbc832f43925f2a7b91d)
+  * [Using Databases with Python](https://coursera.org/share/1874129c26818646f2175d6991569e85)
   * [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://coursera.org/share/bf2f6deaeca733549c432e91657c9bd7)
 
 
