@@ -31,6 +31,7 @@
   * [Introduction to HTML5](https://coursera.org/share/b319b3855e8d4d11f72a6e6eab146013)
   * [Introduction to CSS3](https://coursera.org/share/3bdd0fcfbd5ea2f8cc210ab73b011bea)
   * [Interactivity with JavaScript](https://coursera.org/share/aef0427f7d6b286e36687e1ebf030428)
+  * [Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/records/PWFNDXPCVC5K?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 #### [Machine Learning: Algorithms in the Real World Specialization](https://www.coursera.org/specializations/machine-learning-algorithms-real-world)
   * [Introduction to Applied Machine Learning](https://coursera.org/share/2070c6bfa1b5f17540d2b9690c5d24dc)
