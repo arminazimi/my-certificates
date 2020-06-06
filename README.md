@@ -42,7 +42,7 @@ Python (Part 1)](https://coursera.org/share/d20430717a7b300d8106bbcf6ab9ce0d)
 #### Responsive Website Development and Design Specialization by University of London
   * [Responsive Website Basics: Code with HTML, CSS,and JavaScript](https://www.coursera.org/account/accomplishments/records/TU45U2AHYL79?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
   
-#### Introduction to Scripting in Python Specialization
+#### Introduction to Scripting in Python Specialization by Rice University
   * [Python Programming Essentials](https://coursera.org/share/cdb96d674f325f925ab85da621281faa)
 
 #### [AI For Everyone](https://coursera.org/share/bfe9a480ad4ae247d862c5b2917ed249)
