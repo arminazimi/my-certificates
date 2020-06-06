@@ -44,6 +44,8 @@ Python (Part 1)](https://coursera.org/share/d20430717a7b300d8106bbcf6ab9ce0d)
 
 #### [AI For Everyone](https://coursera.org/share/bfe9a480ad4ae247d862c5b2917ed249)
 
+### [Learn to Program: The Fundamentals by University of Toronto](https://coursera.org/share/16b27e983f19e7585c3e06dad924bde9)
+
 
 #### [Machine Learning by  Stanford University](https://coursera.org/share/cc1582596358716712c2662ebd1d0c26)
 
