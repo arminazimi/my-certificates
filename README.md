@@ -2,14 +2,14 @@
 # my certificates from coursera 
 ### [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JV3MBSQTA9T7?utm_source=link&utm_campaign=copybutton_certificate) 
  * [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/TWQUWWAJC9C6?utm_source=link&utm_campaign=copybutton_certificate)
-* Open Source tools for Data Science - <a href= "https://www.coursera.org/account/accomplishments/verify/ZZ3WPYAMAK6U?utm_source=link&utm_campaign=copybutton_certificate" > link </a>
-* Data Science Methodology - <a target="_blank" href="https://www.coursera.org/account/accomplishments/verify/KGUJWKZ9FPKY?utm_source=link&utm_campaign=copybutton_certificate">link</a>
-* Python for Data Science and AI - <a href= "https://www.coursera.org/account/accomplishments/verify/APQ9DUJZPXDY?utm_source=link&utm_campaign=copybutton_certificate" > link </a>
-* Databases and SQL for Data Science - <a href= "https://www.coursera.org/account/accomplishments/verify/TYJBUKNMRGFF?utm_source=link&utm_campaign=copybutton_certificate" > link </a>
-* Data Analysis with Python - <a href= "https://www.coursera.org/account/accomplishments/verify/JUDWJPGGKU2Z?utm_source=link&utm_campaign=copybutton_certificate" > link </a>
-* Data Visualization with Python - <a href= "https://www.coursera.org/account/accomplishments/verify/X5BFNMFQHD52?utm_source=link&utm_campaign=copybutton_certificate" > link </a>
-* Machine Learning with Python - <a href= "https://www.coursera.org/account/accomplishments/verify/2B6ZEPCS243C?utm_source=link&utm_campaign=copybutton_certificate" > link </a>
-* Applied Data Science Capstone - <a href= "https://www.coursera.org/account/accomplishments/verify/RAKMVBWH9QWG?utm_source=link&utm_campaign=copybutton_certificate" > link </a>
+* [Open Source tools for Data Science](https://www.coursera.org/account/accomplishments/verify/ZZ3WPYAMAK6U?utm_source=link&utm_campaign=copybutton_certificate)
+* [Data Science Methodology](https://www.coursera.org/account/accomplishments/verify/KGUJWKZ9FPKY?utm_source=link&utm_campaign=copybutton_certificate)
+* [Python for Data Science and AI](https://www.coursera.org/account/accomplishments/verify/APQ9DUJZPXDY?utm_source=link&utm_campaign=copybutton_certificate)
+* [Databases and SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TYJBUKNMRGFF?utm_source=link&utm_campaign=copybutton_certificate)
+* [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/JUDWJPGGKU2Z?utm_source=link&utm_campaign=copybutton_certificate)
+* [Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/X5BFNMFQHD52?utm_source=link&utm_campaign=copybutton_certificate)
+* [Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/2B6ZEPCS243C?utm_source=link&utm_campaign=copybutton_certificate)
+* [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/verify/RAKMVBWH9QWG?utm_source=link&utm_campaign=copybutton_certificate)
 
 
 ### [Open Source Software Development, Linux and Git](https://coursera.org/share/37efa2ad69a6e1201b86c9271a558bf1)
