@@ -33,17 +33,33 @@
   * [Interactivity with JavaScript](https://coursera.org/share/aef0427f7d6b286e36687e1ebf030428)
   * [Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/records/PWFNDXPCVC5K?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
-#### [Machine Learning: Algorithms in the Real World Specialization](https://www.coursera.org/specializations/machine-learning-algorithms-real-world)
-  * [Introduction to Applied Machine Learning](https://coursera.org/share/2070c6bfa1b5f17540d2b9690c5d24dc)
-#### [Fundamentals of Computing Specialization by Rice University](https://www.coursera.org/specializations/computer-fundamentals)
-  * [An Introduction to Interactive Programming in
-Python (Part 1)](https://coursera.org/share/d20430717a7b300d8106bbcf6ab9ce0d)
+
+
+#### Introduction to Scripting in Python Specialization by Rice University
+  * [Python Programming Essentials](https://coursera.org/share/cdb96d674f325f925ab85da621281faa)
+
+
+
+
 
 #### Responsive Website Development and Design Specialization by University of London
   * [Responsive Website Basics: Code with HTML, CSS,and JavaScript](https://www.coursera.org/account/accomplishments/records/TU45U2AHYL79?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
   
-#### Introduction to Scripting in Python Specialization by Rice University
-  * [Python Programming Essentials](https://coursera.org/share/cdb96d674f325f925ab85da621281faa)
+
+
+
+#### [Machine Learning: Algorithms in the Real World Specialization]
+  * [Introduction to Applied Machine Learning](https://coursera.org/share/2070c6bfa1b5f17540d2b9690c5d24dc)
+
+
+
+
+#### [Fundamentals of Computing Specialization by Rice University]
+  * [An Introduction to Interactive Programming in Python (Part 1)](https://coursera.org/share/d20430717a7b300d8106bbcf6ab9ce0d)
+
+
+
+
 
 #### [AI For Everyone](https://coursera.org/share/bfe9a480ad4ae247d862c5b2917ed249)
 
