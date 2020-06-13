@@ -56,6 +56,9 @@
 
 #### Fundamentals of Computing Specialization by Rice University
   * [An Introduction to Interactive Programming in Python (Part 1)](https://coursera.org/share/d20430717a7b300d8106bbcf6ab9ce0d)
+  
+#### Introduction to Computer Science and Programming Specialization by University of London 
+  * [How Computers Work](https://coursera.org/share/3f312cae2cd5834785da39970306c27b)
 
 
 
