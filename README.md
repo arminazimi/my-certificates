@@ -80,6 +80,8 @@
 
 #### [Learn to Program: The Fundamentals by University of Toronto](https://coursera.org/share/16b27e983f19e7585c3e06dad924bde9)
 
+#### [Learn to Program: Crafting Quality Code by University of Toronto](https://coursera.org/share/ad2113c5274f6eb0996e6d6710d46a32)
+
 #### [Internet History, Technology, and Security by University of Michigan](https://coursera.org/share/756b86146fbdfd93f43bd16f243acf6b)
 <hr>
 
