@@ -93,4 +93,6 @@
 
 
 #### [Python for data science by University Of Tehran](https://github.com/arminazimi/my-certificates/blob/master/Python%20for%20data%20science.pdf)
+
+#### [data mining by maktabkhooneh](https://github.com/arminazimi/my-certificates/blob/master/data%20mining.pdf)
 <a href="#top">Back to top</a>
