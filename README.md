@@ -44,6 +44,7 @@
 
 #### Responsive Website Development and Design Specialization by University of London
   * [Responsive Website Basics: Code with HTML, CSS,and JavaScript](https://www.coursera.org/account/accomplishments/records/TU45U2AHYL79?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+  * [Responsive Web Design](https://coursera.org/share/5897b6858ad5842d5afe6dbdf151d076)
   
 
 
