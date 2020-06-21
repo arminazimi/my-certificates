@@ -37,6 +37,7 @@
 
 #### Introduction to Scripting in Python Specialization by Rice University
   * [Python Programming Essentials](https://coursera.org/share/cdb96d674f325f925ab85da621281faa)
+  * [Python Data Representations](https://coursera.org/share/e794beb4bf2e00b19cf2ce063393fad2)
 
 
 
