@@ -25,6 +25,15 @@
    * [Using Python to Access Web Data](https://coursera.org/share/d9812a73e017bbc832f43925f2a7b91d)
    * [Using Databases with Python](https://coursera.org/share/1874129c26818646f2175d6991569e85)
    * [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://coursera.org/share/bf2f6deaeca733549c432e91657c9bd7)
+   
+   
+
+
+### [Introduction to Scripting in Python Specialization by Rice University](https://coursera.org/share/1c19d8a16e6c51328ddc72a3cd0a3e7e)
+  * [Python Programming Essentials](https://coursera.org/share/cdb96d674f325f925ab85da621281faa)
+  * [Python Data Representations](https://coursera.org/share/e794beb4bf2e00b19cf2ce063393fad2)
+  * [Python Data Analysis](https://coursera.org/share/0117e431d9b0f91fbcd1f637c6f8c4e4)
+  * [Python Data Visualization](https://coursera.org/share/b2e4fa9292545499a47902e3089e63cf)
 
 
 #### Web Design for Everybody: Basics of Web Development & Coding Specialization by University of Michigan 
@@ -32,14 +41,6 @@
   * [Introduction to CSS3](https://coursera.org/share/3bdd0fcfbd5ea2f8cc210ab73b011bea)
   * [Interactivity with JavaScript](https://coursera.org/share/aef0427f7d6b286e36687e1ebf030428)
   * [Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/records/PWFNDXPCVC5K?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-
-
-
-#### Introduction to Scripting in Python Specialization by Rice University
-  * [Python Programming Essentials](https://coursera.org/share/cdb96d674f325f925ab85da621281faa)
-  * [Python Data Representations](https://coursera.org/share/e794beb4bf2e00b19cf2ce063393fad2)
-  * [Python Data Analysis](https://coursera.org/share/0117e431d9b0f91fbcd1f637c6f8c4e4)
-
 
 
 
@@ -60,6 +61,8 @@
 #### Fundamentals of Computing Specialization by Rice University
   * [An Introduction to Interactive Programming in Python (Part 1)](https://coursera.org/share/d20430717a7b300d8106bbcf6ab9ce0d)
   
+
+
 #### Introduction to Computer Science and Programming Specialization by University of London 
   * [How Computers Work](https://coursera.org/share/3f312cae2cd5834785da39970306c27b)
 
