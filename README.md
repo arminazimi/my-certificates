@@ -1,5 +1,36 @@
 <a name="top"></a>
 # my certificates from coursera 
+
+
+### Django for Everybody Specialization
+  *[Web Application Technologies and Django](https://coursera.org/share/7d65347a68f1a6cec69da9350ac699fd)
+
+
+
+
+
+### [Python for Everybody Specialization by University of Michigan](https://coursera.org/share/bf2f6deaeca733549c432e91657c9bd7) 
+   * [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/edac0ab2f4faa6b043e47a3c644cbeeb)
+   * [Python Data Structures](https://coursera.org/share/e418b11d860c0f9fd6e73ca2132270d8)
+   * [Using Python to Access Web Data](https://coursera.org/share/d9812a73e017bbc832f43925f2a7b91d)
+   * [Using Databases with Python](https://coursera.org/share/1874129c26818646f2175d6991569e85)
+   * [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://coursera.org/share/bf2f6deaeca733549c432e91657c9bd7)
+
+
+
+
+
+
+### [Open Source Software Development, Linux and Git](https://coursera.org/share/37efa2ad69a6e1201b86c9271a558bf1)
+   * [Open Source Software Development Methods](https://coursera.org/share/5538cfe2e176c38567a1d428a37efcbe)
+   * [Linux for Developers](https://coursera.org/share/30e9d543b057514b27ccdbe1af4ceee3)
+   * [Linux Tools for Developers](https://coursera.org/share/30e9d543b057514b27ccdbe1af4ceee3)
+   * [Using Git for Distributed Development](https://coursera.org/share/21b925ba61fb958d13a08ae06beae83f)
+
+
+
+
+
 ### [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JV3MBSQTA9T7?utm_source=link&utm_campaign=copybutton_certificate) 
  * [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/TWQUWWAJC9C6?utm_source=link&utm_campaign=copybutton_certificate)
 * [Open Source tools for Data Science](https://www.coursera.org/account/accomplishments/verify/ZZ3WPYAMAK6U?utm_source=link&utm_campaign=copybutton_certificate)
@@ -11,21 +42,6 @@
 * [Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/2B6ZEPCS243C?utm_source=link&utm_campaign=copybutton_certificate)
 * [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/verify/RAKMVBWH9QWG?utm_source=link&utm_campaign=copybutton_certificate)
 
-
-### [Open Source Software Development, Linux and Git](https://coursera.org/share/37efa2ad69a6e1201b86c9271a558bf1)
-   * [Open Source Software Development Methods](https://coursera.org/share/5538cfe2e176c38567a1d428a37efcbe)
-   * [Linux for Developers](https://coursera.org/share/30e9d543b057514b27ccdbe1af4ceee3)
-   * [Linux Tools for Developers](https://coursera.org/share/30e9d543b057514b27ccdbe1af4ceee3)
-   * [Using Git for Distributed Development](https://coursera.org/share/21b925ba61fb958d13a08ae06beae83f)
-
-
-### [Python for Everybody Specialization by University of Michigan](https://coursera.org/share/bf2f6deaeca733549c432e91657c9bd7) 
-   * [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/edac0ab2f4faa6b043e47a3c644cbeeb)
-   * [Python Data Structures](https://coursera.org/share/e418b11d860c0f9fd6e73ca2132270d8)
-   * [Using Python to Access Web Data](https://coursera.org/share/d9812a73e017bbc832f43925f2a7b91d)
-   * [Using Databases with Python](https://coursera.org/share/1874129c26818646f2175d6991569e85)
-   * [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://coursera.org/share/bf2f6deaeca733549c432e91657c9bd7)
-   
    
 
 
