@@ -2,8 +2,8 @@
 # my certificates from coursera 
 
 
-### Django for Everybody Specialization
-  *[Web Application Technologies and Django](https://coursera.org/share/7d65347a68f1a6cec69da9350ac699fd)
+### Django for Everybody Specialization by University of Michigan
+  * [Web Application Technologies and Django](https://coursera.org/share/7d65347a68f1a6cec69da9350ac699fd)
 
 
 
