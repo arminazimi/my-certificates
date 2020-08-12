@@ -2,9 +2,17 @@
 # my certificates from coursera 
 
 
-### Django for Everybody Specialization by University of Michigan
-  * [Web Application Technologies and Django](https://coursera.org/share/7d65347a68f1a6cec69da9350ac699fd)
 
+### [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JV3MBSQTA9T7?utm_source=link&utm_campaign=copybutton_certificate) 
+ * [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/TWQUWWAJC9C6?utm_source=link&utm_campaign=copybutton_certificate)
+* [Open Source tools for Data Science](https://www.coursera.org/account/accomplishments/verify/ZZ3WPYAMAK6U?utm_source=link&utm_campaign=copybutton_certificate)
+* [Data Science Methodology](https://www.coursera.org/account/accomplishments/verify/KGUJWKZ9FPKY?utm_source=link&utm_campaign=copybutton_certificate)
+* [Python for Data Science and AI](https://www.coursera.org/account/accomplishments/verify/APQ9DUJZPXDY?utm_source=link&utm_campaign=copybutton_certificate)
+* [Databases and SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TYJBUKNMRGFF?utm_source=link&utm_campaign=copybutton_certificate)
+* [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/JUDWJPGGKU2Z?utm_source=link&utm_campaign=copybutton_certificate)
+* [Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/X5BFNMFQHD52?utm_source=link&utm_campaign=copybutton_certificate)
+* [Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/2B6ZEPCS243C?utm_source=link&utm_campaign=copybutton_certificate)
+* [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/verify/RAKMVBWH9QWG?utm_source=link&utm_campaign=copybutton_certificate)
 
 
 
@@ -21,6 +29,11 @@
 
 
 
+
+
+
+
+
 ### [Open Source Software Development, Linux and Git](https://coursera.org/share/37efa2ad69a6e1201b86c9271a558bf1)
    * [Open Source Software Development Methods](https://coursera.org/share/5538cfe2e176c38567a1d428a37efcbe)
    * [Linux for Developers](https://coursera.org/share/30e9d543b057514b27ccdbe1af4ceee3)
@@ -30,19 +43,6 @@
 
 
 
-
-### [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JV3MBSQTA9T7?utm_source=link&utm_campaign=copybutton_certificate) 
- * [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/TWQUWWAJC9C6?utm_source=link&utm_campaign=copybutton_certificate)
-* [Open Source tools for Data Science](https://www.coursera.org/account/accomplishments/verify/ZZ3WPYAMAK6U?utm_source=link&utm_campaign=copybutton_certificate)
-* [Data Science Methodology](https://www.coursera.org/account/accomplishments/verify/KGUJWKZ9FPKY?utm_source=link&utm_campaign=copybutton_certificate)
-* [Python for Data Science and AI](https://www.coursera.org/account/accomplishments/verify/APQ9DUJZPXDY?utm_source=link&utm_campaign=copybutton_certificate)
-* [Databases and SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TYJBUKNMRGFF?utm_source=link&utm_campaign=copybutton_certificate)
-* [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/JUDWJPGGKU2Z?utm_source=link&utm_campaign=copybutton_certificate)
-* [Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/X5BFNMFQHD52?utm_source=link&utm_campaign=copybutton_certificate)
-* [Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/2B6ZEPCS243C?utm_source=link&utm_campaign=copybutton_certificate)
-* [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/verify/RAKMVBWH9QWG?utm_source=link&utm_campaign=copybutton_certificate)
-
-   
 
 
 ### [Introduction to Scripting in Python Specialization by Rice University](https://coursera.org/share/1c19d8a16e6c51328ddc72a3cd0a3e7e)
@@ -58,7 +58,8 @@
   * [Interactivity with JavaScript](https://coursera.org/share/aef0427f7d6b286e36687e1ebf030428)
   * [Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/records/PWFNDXPCVC5K?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
-
+### Django for Everybody Specialization by University of Michigan
+  * [Web Application Technologies and Django](https://coursera.org/share/7d65347a68f1a6cec69da9350ac699fd)
 
 
 #### Responsive Website Development and Design Specialization by University of London
