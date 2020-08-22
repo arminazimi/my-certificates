@@ -60,6 +60,7 @@
 
 ### Django for Everybody Specialization by University of Michigan
   * [Web Application Technologies and Django](https://coursera.org/share/7d65347a68f1a6cec69da9350ac699fd)
+  * [Building Web Applications in Django](https://coursera.org/share/2174cc66ae861c5486a40c72778a8e94)
 
 
 #### Responsive Website Development and Design Specialization by University of London
