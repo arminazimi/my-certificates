@@ -92,6 +92,8 @@
 
 
 #### [Machine Learning by  Stanford University](https://coursera.org/share/cc1582596358716712c2662ebd1d0c26)
+#### [Cloud Computing Basics (Cloud 101) by LearnQuest](https://coursera.org/share/2692f2f7bd622fb41fa82ccc01679533)
+
 
 #### [Machine Learning for All  by University of London](https://coursera.org/share/cb66c70ff8d67149035d80582e3403ad)
 
@@ -101,6 +103,8 @@
 #### [Understanding Research Methods by University of London](https://coursera.org/share/020c37a04252cbceeb0b857a0d1023f6)
 
 #### [A Crash Course in Data Science by Johns Hopkins University](https://coursera.org/share/6acc95dc976b742167b537db258f4615)
+
+
 
 
 #### [Learn to Program: The Fundamentals by University of Toronto](https://coursera.org/share/16b27e983f19e7585c3e06dad924bde9)
