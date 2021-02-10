@@ -65,8 +65,13 @@
 #### [Learn to Program: Crafting Quality Code by University of Toronto](https://coursera.org/share/ad2113c5274f6eb0996e6d6710d46a32)
 #### [Internet History, Technology, and Security by University of Michigan](https://coursera.org/share/756b86146fbdfd93f43bd16f243acf6b)
 <hr>
+
 # other certificates 
-#### [Automate the Boring Stuff with Python Programming](https://github.com/arminazimi/my-certificates/blob/master/Automate%20the%20Boring%20Stuff%20with%20Python%20Programming.pdf)
-#### [Python for data science by University Of Tehran](https://github.com/arminazimi/my-certificates/blob/master/Python%20for%20data%20science.pdf)
+
+#### [Automate the Boring Stuff with Python Programming](https://github.com/arminazimi/mycertificates/blob/master/Automate%20the%20Boring%20Stuff%20with%20Python%20Programming.pdf)
+
+#### [Python for data science by University Of Tehran](https://github.com/arminazimi/my-certificates/blob/master/Python%20for%20data%20science.pdf) 
+
 #### [data mining by maktabkhooneh](https://github.com/arminazimi/my-certificates/blob/master/data%20mining.pdf)
+
 <a href="#top">Back to top</a>
