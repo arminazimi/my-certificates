@@ -43,6 +43,9 @@
   * [Web Application Technologies and Django](https://coursera.org/share/7d65347a68f1a6cec69da9350ac699fd)
   * [Building Web Applications in Django](https://coursera.org/share/2174cc66ae861c5486a40c72778a8e94)
 
+### Google IT Automation with Python Professional Certificate by Google
+  * [Crash Course on Python](https://coursera.org/share/43db3e2b02514c9a4dcdbd038c53156d)
+
 #### Responsive Website Development and Design Specialization by University of London
   * [Responsive Website Basics: Code with HTML, CSS,and JavaScript](https://www.coursera.org/account/accomplishments/records/TU45U2AHYL79?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
   * [Responsive Web Design](https://coursera.org/share/5897b6858ad5842d5afe6dbdf151d076)
