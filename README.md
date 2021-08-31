@@ -1,5 +1,5 @@
 <a name="top"></a>
-# my certificates from coursera 
+<!-- # my certificates from coursera  -->
 
 
 ### Programming with Google Go Specialization by University of California, Irvine
