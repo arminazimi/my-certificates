@@ -1,5 +1,12 @@
 <a name="top"></a>
 # my certificates from coursera 
+
+
+### Programming with Google Go Specialization by University of California, Irvine
+  * [Getting Started with Go](https://www.coursera.org/account/accomplishments/verify/CET2DXY3J9GP?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+  * [Functions, Methods, and Interfaces in Go](https://coursera.org/share/22be2a5a20cef0552e339f91df0283bf)
+
+
 ### [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JV3MBSQTA9T7?utm_source=link&utm_campaign=copybutton_certificate) 
  * [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/TWQUWWAJC9C6?utm_source=link&utm_campaign=copybutton_certificate)
 * [Open Source tools for Data Science](https://www.coursera.org/account/accomplishments/verify/ZZ3WPYAMAK6U?utm_source=link&utm_campaign=copybutton_certificate)
@@ -18,8 +25,7 @@
    * [Using Databases with Python](https://coursera.org/share/1874129c26818646f2175d6991569e85)
    * [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://coursera.org/share/bf2f6deaeca733549c432e91657c9bd7)
    
-### Programming with Google Go Specialization by University of California, Irvine
-  * [Getting Started with Go](https://www.coursera.org/account/accomplishments/verify/CET2DXY3J9GP?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
 
 ### [Open Source Software Development, Linux and Git](https://coursera.org/share/37efa2ad69a6e1201b86c9271a558bf1)
    * [Open Source Software Development Methods](https://coursera.org/share/5538cfe2e176c38567a1d428a37efcbe)
