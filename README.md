@@ -2,9 +2,10 @@
 <!-- # my certificates from coursera  -->
 
 
-### Programming with Google Go Specialization by University of California, Irvine
+### [Programming with Google Go Specialization by University of California, Irvine](https://coursera.org/share/1e4fdb7424a1d1ea7351f1ad51a968e2)
   * [Getting Started with Go](https://www.coursera.org/account/accomplishments/verify/CET2DXY3J9GP?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
   * [Functions, Methods, and Interfaces in Go](https://coursera.org/share/22be2a5a20cef0552e339f91df0283bf)
+  * [Concurrency in Go](https://coursera.org/share/8ca9f07b2929b195ec2d578465d02464)
 
 
 ### [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JV3MBSQTA9T7?utm_source=link&utm_campaign=copybutton_certificate) 
