@@ -46,6 +46,10 @@
   * [Interactivity with JavaScript](https://coursera.org/share/aef0427f7d6b286e36687e1ebf030428)
   * [Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/records/PWFNDXPCVC5K?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
+#### PostgreSQL for Everybody Specialization by University of Michigan
+ * [Database Design and Basic SQL in PostgreSQL](https://coursera.org/share/1112360bc5536a87bebd4fbd643fc66f)
+
+
 ### Django for Everybody Specialization by University of Michigan
   * [Web Application Technologies and Django](https://coursera.org/share/7d65347a68f1a6cec69da9350ac699fd)
   * [Building Web Applications in Django](https://coursera.org/share/2174cc66ae861c5486a40c72778a8e94)
