@@ -3,15 +3,19 @@
 
 
 ### [Programming with Google Go Specialization by University of California, Irvine](https://coursera.org/share/1e4fdb7424a1d1ea7351f1ad51a968e2)
-  * [Getting Started with Go](https://www.coursera.org/account/accomplishments/verify/CET2DXY3J9GP?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+  * [Getting Started with Go](https://coursera.org/share/f0dbd9e18daedb191f67a0fb6082ff9a)
   * [Functions, Methods, and Interfaces in Go](https://coursera.org/share/22be2a5a20cef0552e339f91df0283bf)
   * [Concurrency in Go](https://coursera.org/share/8ca9f07b2929b195ec2d578465d02464)
 
 
 ### [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
   * [Introduction to Back-End Development](https://coursera.org/share/666caac1f3f5e27f0f53c8d71499ad05)
+  * [Programming in Python](https://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer)
+  * [Version Control](https://coursera.org/share/9953c74eaeb424f9a3d65622b611e193)
+  
 
-
+### [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
+ * [Introduction to DevOps](https://coursera.org/share/b437c763a5ea4bf9df4045d7841d060d)
 
 
 ### [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JV3MBSQTA9T7?utm_source=link&utm_campaign=copybutton_certificate) 
