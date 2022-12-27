@@ -10,12 +10,16 @@
 
 ### [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
   * [Introduction to Back-End Development](https://coursera.org/share/666caac1f3f5e27f0f53c8d71499ad05)
-  * [Programming in Python](https://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer)
+  * Programming in Python
   * [Version Control](https://coursera.org/share/9953c74eaeb424f9a3d65622b611e193)
   
 
 ### [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
  * [Introduction to DevOps](https://coursera.org/share/b437c763a5ea4bf9df4045d7841d060d)
+
+
+### [Software Product Management Specialization by University of Alberta](https://www.coursera.org/specializations/product-management)
+ * [Introduction to Software Product Management](https://www.coursera.org/account/accomplishments/certificate/S559HXEUSW5G)
 
 
 ### [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JV3MBSQTA9T7?utm_source=link&utm_campaign=copybutton_certificate) 
