@@ -16,6 +16,7 @@
 
 ### [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
  * [Introduction to DevOps](https://coursera.org/share/b437c763a5ea4bf9df4045d7841d060d)
+ * [Introduction to Agile Development and Scrum](https://coursera.org/share/9d8e64182519d4b5a53259dcd70216cd)
 
 
 ### [Software Product Management Specialization by University of Alberta](https://www.coursera.org/specializations/product-management)
