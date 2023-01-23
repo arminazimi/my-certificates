@@ -16,6 +16,7 @@
 
 ### [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
  * [Introduction to DevOps](https://coursera.org/share/b437c763a5ea4bf9df4045d7841d060d)
+ * [Introduction to Cloud Computing](https://coursera.org/share/7b658ce24d1cca9fa7b077992e00fc7f)
  * [Introduction to Agile Development and Scrum](https://coursera.org/share/9d8e64182519d4b5a53259dcd70216cd)
 
 
