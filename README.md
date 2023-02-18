@@ -13,6 +13,7 @@
   * [Programming in Python](https://coursera.org/share/af9a697f8122bb58be8b6fd636e5d791)
   * [Version Control](https://coursera.org/share/9953c74eaeb424f9a3d65622b611e193)
   * [Introduction to Databases for Back-End Development](https://coursera.org/share/648fd83323a372d2f479bdb27165e242)
+  * [Coding Interview Preparation](https://coursera.org/share/e8b74c98bcf6f561fc6b464a92a39bea)
   
   
 
