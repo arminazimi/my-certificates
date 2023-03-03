@@ -21,6 +21,7 @@
  * [Introduction to DevOps](https://coursera.org/share/b437c763a5ea4bf9df4045d7841d060d)
  * [Introduction to Cloud Computing](https://coursera.org/share/7b658ce24d1cca9fa7b077992e00fc7f)
  * [Introduction to Agile Development and Scrum](https://coursera.org/share/9d8e64182519d4b5a53259dcd70216cd)
+ * [Hands-on Introduction to Linux Commands and Shell Scripting(https://coursera.org/share/141790d617475bc5671547799d4ea65f)
  * [Getting Started with Git and GitHub](https://coursera.org/share/01e159dc7ddc85cde0b35634c06b79a9)
  * [Introduction to Test Driven Development (TDD)](https://coursera.org/share/0fa6d974ad36385255398fb6dae4b1f4)
 
