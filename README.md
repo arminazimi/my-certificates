@@ -24,6 +24,7 @@
  * [Hands-on Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/141790d617475bc5671547799d4ea65f)
  * [Getting Started with Git and GitHub](https://coursera.org/share/01e159dc7ddc85cde0b35634c06b79a9)
  * [Python Project for AI & Application Development](https://coursera.org/share/7bc89485f69b7fbe650b904ca2923952)
+ * [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://coursera.org/share/cfa7b88b913e4a8446b9dc706c0802b0)
  * [Introduction to Test Driven Development (TDD)](https://coursera.org/share/0fa6d974ad36385255398fb6dae4b1f4)
 
 
