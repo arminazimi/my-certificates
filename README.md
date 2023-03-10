@@ -25,7 +25,7 @@
  * [Getting Started with Git and GitHub](https://coursera.org/share/01e159dc7ddc85cde0b35634c06b79a9)
  * [Python Project for AI & Application Development](https://coursera.org/share/7bc89485f69b7fbe650b904ca2923952)
  * [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://coursera.org/share/cfa7b88b913e4a8446b9dc706c0802b0)
- * (Application Development using Microservices and Serverless)[https://coursera.org/share/da7ec89fcb6baffcbe2083249219a145]
+ * [Application Development using Microservices and Serverless](https://coursera.org/share/da7ec89fcb6baffcbe2083249219a145)
  * [Introduction to Test Driven Development (TDD)](https://coursera.org/share/0fa6d974ad36385255398fb6dae4b1f4)
 
 
