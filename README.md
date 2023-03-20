@@ -28,6 +28,8 @@
  * [Application Development using Microservices and Serverless](https://coursera.org/share/da7ec89fcb6baffcbe2083249219a145)
  * [Introduction to Test Driven Development (TDD)](https://coursera.org/share/0fa6d974ad36385255398fb6dae4b1f4)
  * [Continuous Integration and Continuous Delivery (CI/CD)](https://coursera.org/share/c289da870e1aa804d45eeb433f393eae)
+ * [Application Security and Monitoring](https://coursera.org/share/b585f625d826ab02e0546544c65b567a)
+ * [DevOps Capstone Project](https://coursera.org/share/5578073eb1b43e3dba78ff89214017d0)
 
 
 ### [Software Product Management Specialization by University of Alberta](https://www.coursera.org/specializations/product-management)
