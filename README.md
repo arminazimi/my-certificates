@@ -32,10 +32,6 @@
  * [DevOps Capstone Project](https://coursera.org/share/5578073eb1b43e3dba78ff89214017d0)
 
 
-### [Software Product Management Specialization by University of Alberta](https://www.coursera.org/specializations/product-management)
- * [Introduction to Software Product Management](https://www.coursera.org/account/accomplishments/certificate/S559HXEUSW5G)
-
-
 ### [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/JV3MBSQTA9T7?utm_source=link&utm_campaign=copybutton_certificate) 
  * [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/TWQUWWAJC9C6?utm_source=link&utm_campaign=copybutton_certificate)
 * [Open Source tools for Data Science](https://www.coursera.org/account/accomplishments/verify/ZZ3WPYAMAK6U?utm_source=link&utm_campaign=copybutton_certificate)
@@ -68,11 +64,18 @@
   * [Python Data Analysis](https://coursera.org/share/0117e431d9b0f91fbcd1f637c6f8c4e4)
   * [Python Data Visualization](https://coursera.org/share/b2e4fa9292545499a47902e3089e63cf)
 
+### Secure Software Design Specialization
+ * [Software Design as an Element of the Software Development Lifecycle](https://coursera.org/share/1307fc769bb2af1516de0dde0bf3db65)
+
 #### Web Design for Everybody: Basics of Web Development & Coding Specialization by University of Michigan 
   * [Introduction to HTML5](https://coursera.org/share/b319b3855e8d4d11f72a6e6eab146013)
   * [Introduction to CSS3](https://coursera.org/share/3bdd0fcfbd5ea2f8cc210ab73b011bea)
   * [Interactivity with JavaScript](https://coursera.org/share/aef0427f7d6b286e36687e1ebf030428)
   * [Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/records/PWFNDXPCVC5K?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
+
+### Software Product Management Specialization by University of Alberta
+ * [Introduction to Software Product Management](https://www.coursera.org/account/accomplishments/certificate/S559HXEUSW5G)
 
 #### PostgreSQL for Everybody Specialization by University of Michigan
  * [Database Design and Basic SQL in PostgreSQL](https://coursera.org/share/1112360bc5536a87bebd4fbd643fc66f)
